@@ -26,6 +26,8 @@ IRB is not a file where you save your work. Any coding you do in the IRB console
 IRB allows you to execute ruby in the terminal and you're going to get comfortable using it to test and better understand your Ruby code. To access IRB, just type `irb` in the terminal. IRB allows you to do anything you can do in a Ruby file. For instance, you can do math, get the time by typing `Time.now`, or print text to the screen.
 
 
+
+
 ## Instructions
 
 1. Open up your terminal. (If you do not have a terminal on your computer you can use [repl.it](https://repl.it/))
